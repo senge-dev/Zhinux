@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Poedit 2.4.3\n"
 
 msgid "\thost  unmatched"
-msgstr "\t主机不匹配"
+msgstr "\t主只因不匹配"
 
 msgid ""
 "\n"

@@ -2,6 +2,12 @@
 
 iKun专属Linux系统
 
+Zhinux为递归写法：Zhinux is not Unix.
+
+欢迎光临我的网站：[个人博客](https://senge.dev)
+
+BiliBili视频介绍：[BiliBili](https://www.bilibili.com/video/BV1p8411K7i5)
+
 ## 如何贡献
 
 1. Fork该项目，然后在language文件夹中新建.po文件（如pacman.po）
